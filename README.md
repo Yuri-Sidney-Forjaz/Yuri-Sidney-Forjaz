@@ -1,16 +1,16 @@
 <h1 align="center">👋 Olá, eu sou o Yuri Sidney Forjaz!</h1>
 
 <p align="center">
-  [cite_start]🎓 Profissional com formação interdisciplinar em Computação, Física, Matemática e Pedagogia [cite: 9, 14] <br>
-  [cite_start]💡 Comprometido com a união entre tecnologia e educação para promover inovação e impacto social [cite: 9, 12] <br>
-  [cite_start]🚀 Buscando oportunidades para transformar a educação e fortalecer a inclusão digital [cite: 20]
+  🎓 Profissional com formação interdisciplinar em Computação, Física, Matemática e Pedagogia [cite: 9, 14] <br>
+  💡 Comprometido com a união entre tecnologia e educação para promover inovação e impacto social [cite: 9, 12] <br>
+  🚀 Buscando oportunidades para transformar a educação e fortalecer a inclusão digital [cite: 20]
 </p>
 
 ---
 
 ## 🎯 Sobre Mim
 
-[cite_start]Sou um profissional com uma trajetória acadêmica diversificada, guiado por um forte compromisso com a inovação e o ensino[cite: 12]. [cite_start]Minha jornada integra competências em **Física, Matemática, Engenharia da Computação, TI e Pedagogia** para desenvolver soluções que promovem aprendizado e avanço científico[cite: 14]. [cite_start]Minha visão é clara: unir ciência e tecnologia para criar pontes entre a teoria e a prática, contribuindo para um futuro mais sustentável e com rigor técnico e sensibilidade pedagógica[cite: 19, 22].
+Sou um profissional com uma trajetória acadêmica diversificada, guiado por um forte compromisso com a inovação e o ensino[cite: 12]. [cite_start]Minha jornada integra competências em **Física, Matemática, Engenharia da Computação, TI e Pedagogia** para desenvolver soluções que promovem aprendizado e avanço científico[cite: 14]. art]Minha visão é clara: unir ciência e tecnologia para criar pontes entre a teoria e a prática, contribuindo para um futuro mais sustentável e com rigor técnico e sensibilidade pedagógica[cite: 19, 22].
 
 ---
 
@@ -38,11 +38,11 @@
 
 ## 🎓 Formação Acadêmica
 
-* [cite_start]**Licenciatura em Matemática** - Universidade de Franca (2024 - 2028) [cite: 24, 25]
-* [cite_start]**Licenciatura em Física** - Universidade de Franca (2022 - 2026) [cite: 26, 27]
-* [cite_start]**Bacharelado em Engenharia da Computação** - UNIVESP (2023 - 2025) [cite: 28, 29]
-* [cite_start]**Licenciatura em Pedagogia** - Universidade de Franca (2022 - 2025) [cite: 30, 31]
-* [cite_start]**Bacharelado em Tecnologia da Informação** - UNIVESP (2020 - 2023) [cite: 32, 33]
+* **Licenciatura em Matemática** - Universidade de Franca (2024 - 2028) [cite: 24, 25]
+* **Licenciatura em Física** - Universidade de Franca (2022 - 2026) [cite: 26, 27]
+* **Bacharelado em Engenharia da Computação** - UNIVESP (2023 - 2025) [cite: 28, 29]
+* **Licenciatura em Pedagogia** - Universidade de Franca (2022 - 2025) [cite: 30, 31]
+* **Bacharelado em Tecnologia da Informação** - UNIVESP (2020 - 2023) [cite: 32, 33]
 
 ---
 
