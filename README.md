@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=650&lines=Yuri+Sidney+Forjaz;Python+%7C+C%23+.NET+%7C+Java+%7C+Fortran;Soluções+de+Alta+Performance" alt="Animação de digitação para o título">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=850&lines=Yuri+Sidney+Forjaz;Python+%7C+C%23+.NET+%7C+Java+Spring+Boot+%7C+Fortran;Soluções+de+Alta+Performance" alt="Animação de digitação para o título">
   </a>
 </div>
 
@@ -19,7 +19,27 @@
 
 Sou um profissional em formação com uma trajetória acadêmica interdisciplinar, abrangendo ciências exatas, tecnologia e educação. Minha jornada reflete um compromisso com a inovação, o ensino e o impacto social, buscando aplicar o conhecimento em contextos educacionais e tecnológicos.
 
-Minha visão é unir ciência, tecnologia e educação para criar pontes entre teoria e prática, contribuindo para iniciativas que transformem a educação e promovam um futuro sustentável.
+### 🎓 Formação Acadêmica
+
+**Licenciatura em Matemática** - Universidade de Franca
+<br>
+*Início: Junho de 2024 | Término Previsto: Junho de 2028*
+
+**Licenciatura em Física** - Universidade de Franca
+<br>
+*Início: Julho de 2022 | Término Previsto: Julho de 2026*
+
+**Licenciatura em Pedagogia** - Universidade de Franca
+<br>
+*Início: Junho de 2022 | Término Previsto: Julho de 2025*
+
+**Bacharelado em Engenharia da Computação** - UNIVESP
+<br>
+*Início: Julho de 2023 | Término Previsto: Dezembro de 2025*
+
+**Bacharelado em Tecnologia da Informação** - UNIVESP
+<br>
+*Início: Janeiro de 2020 | Concluído: Junho de 2023*
 
 ### 💡 Filosofia de Trabalho
 
@@ -128,26 +148,4 @@ Repositórios para resolução de problemas matemáticos e científicos de alta 
 | `high-precision-computations` | Cálculos numéricos de alta precisão. |
 | `fortran-performance-optimization` | Técnicas para otimização de código Fortran visando máxima performance. |
 | `legacy-code-modernization` | Modernização de código legado Fortran para padrões atuais. |
-</details>
-
----
-
-<details>
-<summary><strong>🎓 Formação Acadêmica</strong></summary>
-<br>
-
-- **Licenciatura em Matemática** - Universidade de Franca
-  - *Início: Junho de 2024 | Término Previsto: Junho de 2028*
-
-- **Licenciatura em Física** - Universidade de Franca
-  - *Início: Julho de 2022 | Término Previsto: Julho de 2026*
-
-- **Licenciatura em Pedagogia** - Universidade de Franca
-  - *Início: Junho de 2022 | Término Previsto: Julho de 2025*
-
-- **Bacharelado em Engenharia da Computação** - UNIVESP
-  - *Início: Julho de 2023 | Término Previsto: Dezembro de 2025*
-
-- **Bacharelado em Tecnologia da Informação** - UNIVESP
-  - *Início: Janeiro de 2020 | Concluído: Junho de 2023*
 </details>
