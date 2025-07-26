@@ -22,7 +22,7 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 
 
 ### 🎓 Formação Acadêmica
-<h3>🎓 Formação Acadêmica</h3>
+
 <table width="100%">
   <tbody>
     <tr style="background-color: #1f6feb26;">
