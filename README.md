@@ -1,4 +1,4 @@
-<div align="center">
+we<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=850&lines=Yuri+Sidney+Forjaz;Python+%7C+C%23+.NET+%7C+Java+Spring+Boot+%7C+Fortran;Soluções+de+Alta+Performance" alt="Animação de digitação para o título">
   </a>
@@ -41,18 +41,30 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 <br>
 *Início: Junho de 2022 | Término Previsto: Julho de 2025*
 
-### 🎓 Formação Acadêmica
+<h3>🎓 Formação Acadêmica</h3>
 
-| Status | Curso | Instituição | Período |
-| :---: | :--- | :--- | :--- |
-| 🟢 | **Bacharelado em Engenharia da Computação** | UNIVESP | Julho 2023 - Dezembro 2025 |
-| 🟢 | **Licenciatura em Física** | Universidade de Franca | Julho 2022 - Julho 2026 |
-| 🟢 | **Licenciatura em Matemática** | Universidade de Franca | Junho 2024 - Junho 2028 |
-| 🟢 | **Licenciatura em Pedagogia** | Universidade de Franca | Junho 2022 - Julho 2025 |
-| ✅ | **Bacharelado em Tecnologia da Informação** | UNIVESP | Janeiro 2020 - Junho 2023 |
+<h4><b>Bacharelado em Engenharia da Computação</b> | <small>UNIVESP</small></h4>
+<i><small>🗓️ Início: Julho de 2023 | Término Previsto: Dezembro de 2025</small></i>
 
+<br>
 
+<h4><b>Licenciatura em Física</b> | <small>Universidade de Franca</small></h4>
+<i><small>🗓️ Início: Julho de 2022 | Término Previsto: Julho de 2026</small></i>
 
+<br>
+
+<h4><b>Licenciatura em Matemática</b> | <small>Universidade de Franca</small></h4>
+<i><small>🗓️ Início: Junho de 2024 | Término Previsto: Junho de 2028</small></i>
+
+<br>
+
+<h4><b>Licenciatura em Pedagogia</b> | <small>Universidade de Franca</small></h4>
+<i><small>🗓️ Início: Junho de 2022 | Término Previsto: Julho de 2025</small></i>
+
+<br>
+
+<h4><b>Bacharelado em Tecnologia da Informação</b> | <small>UNIVESP</small></h4>
+<i><small>✅ Concluído: Junho de 2023</small></i>
 
 ### 💡 Filosofia de Trabalho
 
@@ -78,7 +90,7 @@ Minha abordagem integra conhecimentos de **Engenharia da Computação, Física e
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
----
+
 
 ### 📊 Minhas Estatísticas e Contribuições
 
