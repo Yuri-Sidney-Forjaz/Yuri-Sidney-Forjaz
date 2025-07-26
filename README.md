@@ -41,6 +41,15 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 <br>
 *Início: Junho de 2022 | Término Previsto: Julho de 2025*
 
+### 🎓 Formação Acadêmica
+
+| Status | Curso | Instituição | Período |
+| :---: | :--- | :--- | :--- |
+| 🟢 | **Bacharelado em Engenharia da Computação** | UNIVESP | Julho 2023 - Dezembro 2025 |
+| 🟢 | **Licenciatura em Física** | Universidade de Franca | Julho 2022 - Julho 2026 |
+| 🟢 | **Licenciatura em Matemática** | Universidade de Franca | Junho 2024 - Junho 2028 |
+| 🟢 | **Licenciatura em Pedagogia** | Universidade de Franca | Junho 2022 - Julho 2025 |
+| ✅ | **Bacharelado em Tecnologia da Informação** | UNIVESP | Janeiro 2020 - Junho 2023 |
 
 
 
