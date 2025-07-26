@@ -66,6 +66,38 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 <h4><b>Bacharelado em Tecnologia da Informação</b> | <small>UNIVESP</small></h4>
 <i><small>✅ Concluído: Junho de 2023</small></i>
 
+
+<h3>🎓 Formação Acadêmica</h3>
+
+<div style="margin-bottom: 20px;">
+  <h4><b>Bacharelado em Engenharia da Computação</b></h4>
+  <span style="font-size: 15px; color: #848d97;">UNIVESP</span><br>
+  <small><i>🗓️ Início: Julho de 2023 | Término Previsto: Dezembro de 2025</i></small>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <h4><b>Licenciatura em Física</b></h4>
+  <span style="font-size: 15px; color: #848d97;">Universidade de Franca</span><br>
+  <small><i>🗓️ Início: Julho de 2022 | Término Previsto: Julho de 2026</i></small>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <h4><b>Licenciatura em Matemática</b></h4>
+  <span style="font-size: 15px; color: #848d97;">Universidade de Franca</span><br>
+  <small><i>🗓️ Início: Junho de 2024 | Término Previsto: Junho de 2028</i></small>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <h4><b>Licenciatura em Pedagogia</b></h4>
+  <span style="font-size: 15px; color: #848d97;">Universidade de Franca</span><br>
+  <small><i>🗓️ Início: Junho de 2022 | Término Previsto: Julho de 2025</i></small>
+</div>
+
+<div>
+  <h4><b>Bacharelado em Tecnologia da Informação</b></h4>
+  <span style="font-size: 15px; color: #848d97;">UNIVESP</span><br>
+  <small><i>✅ Concluído: Junho de 2023</i></small>
+</div>
 ### 💡 Filosofia de Trabalho
 
 Minha abordagem integra conhecimentos de **Engenharia da Computação, Física e Pedagogia**. O objetivo é aplicar modelos computacionais e metodologias de ensino para projetar e implementar soluções tecnológicas inovadoras, que causem um impacto positivo e duradouro.
