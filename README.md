@@ -23,56 +23,56 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 
 ### 🎓 Formação Acadêmica
 <h3>🎓 Formação Acadêmica</h3>
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table width="100%">
   <tbody>
-    <tr style="border: none;">
-      <td style="border: none; padding-bottom: 20px; vertical-align: middle;">
-        <b style="font-size: 18px;">Bacharelado em Engenharia da Computação</b><br>
-        <span style="font-size: 16px; color: #848d97;">UNIVESP</span><br>
-        <i style="font-size: 15px;">🗓️Início: Julho de 2023 | Término Previsto: Dezembro de 2025</i>
+    <tr style="background-color: #1f6feb26;">
+      <td style="padding: 15px;">
+        <b>Bacharelado em Engenharia da Computação</b><br>
+        <small>UNIVESP</small><br>
+        <i><small>🗓️ Início: Julho de 2023 | Término Previsto: Dezembro de 2025</small></i>
       </td>
-      <td style="border: none; text-align: right; vertical-align: middle;">
-        <span style="font-size: 14px; color: red;">Instituição Pública</span>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none; padding-bottom: 20px; vertical-align: middle;">
-        <b style="font-size: 18px;">Bacharelado em Tecnologia da Informação</b><br>
-        <span style="font-size: 16px; color: #848d97;">UNIVESP</span><br>
-        <i style="font-size: 15px;">✅ Concluído: Junho de 2023</i>
-      </td>
-      <td style="border: none; text-align: right; vertical-align: middle;">
-        <span style="font-size: 14px; color: red;">Instituição Pública</span>
+      <td style="padding: 15px; text-align: right; vertical-align: middle;">
+        Instituição Pública
       </td>
     </tr>
-    <tr style="border: none;">
-      <td style="border: none; padding-bottom: 20px; vertical-align: middle;">
-        <b style="font-size: 18px;">Licenciatura em Física</b><br>
-        <span style="font-size: 16px; color: #848d97;">Universidade de Franca</span><br>
-        <i style="font-size: 15px;">🗓️Início: Julho de 2022 | Término Previsto: Julho de 2026</i>
+    <tr style="background-color: #1f6feb26;">
+      <td style="padding: 15px;">
+        <b>Bacharelado em Tecnologia da Informação</b><br>
+        <small>UNIVESP</small><br>
+        <i><small>🗓️ Concluído: Junho de 2023</small></i>
       </td>
-      <td style="border: none; text-align: right; vertical-align: middle;">
-        <span style="font-size: 14px; color: #28a745;">Instituição Privada</span>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none; padding-bottom: 20px; vertical-align: middle;">
-        <b style="font-size: 18px;">Licenciatura em Matemática</b><br>
-        <span style="font-size: 16px; color: #848d97;">Universidade de Franca</span><br>
-        <i style="font-size: 15px;">🗓️Início: Junho de 2024 | Término Previsto: Junho de 2028</i>
-      </td>
-      <td style="border: none; text-align: right; vertical-align: middle;">
-        <span style="font-size: 14px; color: #28a745;">Instituição Privada</span>
+      <td style="padding: 15px; text-align: right; vertical-align: middle;">
+        Instituição Pública
       </td>
     </tr>
-    <tr style="border: none;">
-      <td style="border: none; vertical-align: middle;">
-        <b style="font-size: 18px;">Licenciatura em Pedagogia</b><br>
-        <span style="font-size: 16px; color: #848d97;">Universidade de Franca</span><br>
-        <i style="font-size: 15px;">🗓️Início: Julho de 2022 | Término Previsto: Julho de 2025</i>
+    <tr style="background-color: #f18a0e26;">
+      <td style="padding: 15px;">
+        <b>Licenciatura em Física</b><br>
+        <small>Universidade de Franca</small><br>
+        <i><small>🗓️ Início: Julho de 2022 | Término Previsto: Julho de 2026</small></i>
       </td>
-      <td style="border: none; text-align: right; vertical-align: middle;">
-        <span style="font-size: 14px; color: #28a745;">Instituição Privada</span>
+      <td style="padding: 15px; text-align: right; vertical-align: middle;">
+        Instituição Privada
+      </td>
+    </tr>
+    <tr style="background-color: #f18a0e26;">
+      <td style="padding: 15px;">
+        <b>Licenciatura em Matemática</b><br>
+        <small>Universidade de Franca</small><br>
+        <i><small>🗓️ Início: Junho de 2024 | Término Previsto: Junho de 2028</small></i>
+      </td>
+      <td style="padding: 15px; text-align: right; vertical-align: middle;">
+        Instituição Privada
+      </td>
+    </tr>
+    <tr style="background-color: #f18a0e26;">
+      <td style="padding: 15px;">
+        <b>Licenciatura em Pedagogia</b><br>
+        <small>Universidade de Franca</small><br>
+        <i><small>🗓️ Início: Julho de 2022 | Término Previsto: Julho de 2025</small></i>
+      </td>
+      <td style="padding: 15px; text-align: right; vertical-align: middle;">
+        Instituição Privada
       </td>
     </tr>
   </tbody>
