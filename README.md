@@ -21,53 +21,7 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 
 ### 🎓 Formação Acadêmica
 
-**Bacharelado em Engenharia da Computação** - UNIVESP
-<br>
-*Início: Julho de 2023 | Término Previsto: Dezembro de 2025*
 
-**Licenciatura em Física** - Universidade de Franca
-<br>
-*Início: Julho de 2022 | Término Previsto: Julho de 2026*
-
-**Licenciatura em Matemática** - Universidade de Franca
-<br>
-*Início: Junho de 2024 | Término Previsto: Junho de 2028*
-
-**Bacharelado em Tecnologia da Informação** - UNIVESP
-<br>
-*Início: Janeiro de 2020 | Concluído: Junho de 2023*
-
-**Licenciatura em Pedagogia** - Universidade de Franca
-<br>
-*Início: Junho de 2022 | Término Previsto: Julho de 2025*
-
-<h3>🎓 Formação Acadêmica</h3>
-
-<h4><b>Bacharelado em Engenharia da Computação</b> | <small>UNIVESP</small></h4>
-<i><small>🗓️ Início: Julho de 2023 | Término Previsto: Dezembro de 2025</small></i>
-
-<br>
-
-<h4><b>Licenciatura em Física</b> | <small>Universidade de Franca</small></h4>
-<i><small>🗓️ Início: Julho de 2022 | Término Previsto: Julho de 2026</small></i>
-
-<br>
-
-<h4><b>Licenciatura em Matemática</b> | <small>Universidade de Franca</small></h4>
-<i><small>🗓️ Início: Junho de 2024 | Término Previsto: Junho de 2028</small></i>
-
-<br>
-
-<h4><b>Licenciatura em Pedagogia</b> | <small>Universidade de Franca</small></h4>
-<i><small>🗓️ Início: Junho de 2022 | Término Previsto: Julho de 2025</small></i>
-
-<br>
-
-<h4><b>Bacharelado em Tecnologia da Informação</b> | <small>UNIVESP</small></h4>
-<i><small>✅ Concluído: Junho de 2023</small></i>
-
-
-<h3>🎓 Formação Acadêmica</h3>
 
 <div style="margin-bottom: 20px;">
   <h4><b>Bacharelado em Engenharia da Computação</b></h4>
@@ -88,15 +42,15 @@ Sou um profissional em formação com uma trajetória acadêmica interdisciplina
 </div>
 
 <div style="margin-bottom: 20px;">
-  <h4><b>Licenciatura em Pedagogia</b></h4>
-  <span style="font-size: 15px; color: #848d97;">Universidade de Franca</span><br>
-  <small><i>🗓️ Início: Junho de 2022 | Término Previsto: Julho de 2025</i></small>
-</div>
-
-<div>
   <h4><b>Bacharelado em Tecnologia da Informação</b></h4>
   <span style="font-size: 15px; color: #848d97;">UNIVESP</span><br>
   <small><i>✅ Concluído: Junho de 2023</i></small>
+</div>
+
+<div>
+  <h4><b>Licenciatura em Pedagogia</b></h4>
+  <span style="font-size: 15px; color: #848d97;">Universidade de Franca</span><br>
+  <small><i>🗓️ Início: Junho de 2022 | Término Previsto: Julho de 2025</i></small>
 </div>
 ### 💡 Filosofia de Trabalho
 
