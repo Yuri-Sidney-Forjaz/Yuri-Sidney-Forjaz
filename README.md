@@ -1,76 +1,175 @@
-<h1 align="center">👋 Olá, eu sou o Yuri Sidney Forjaz!</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=800&lines=YURI+SIDNEY+FORJAZ;ARQUITETO+DE+SOLUÇÕES+INTERDISCIPLINARES;ENGENHARIA+%7C%7C+CIÊNCIA+DE+DADOS+%7C%7C+EDUCAÇÃO" alt="Typing SVG" /></a>
+</div>
 
-<p align="center">
-  🎓 Profissional com formação interdisciplinar em Computação, Física, Matemática e Pedagogia [cite: 9, 14] <br>
-  💡 Comprometido com a união entre tecnologia e educação para promover inovação e impacto social [cite: 9, 12] <br>
-  🚀 Buscando oportunidades para transformar a educação e fortalecer a inclusão digital [cite: 20]
-</p>
-
----
-
-## 🎯 Sobre Mim
-
-Sou um profissional com uma trajetória acadêmica diversificada, guiado por um forte compromisso com a inovação e o ensino[cite: 12]. [cite_start]Minha jornada integra competências em **Física, Matemática, Engenharia da Computação, TI e Pedagogia** para desenvolver soluções que promovem aprendizado e avanço científico[cite: 14]. art]Minha visão é clara: unir ciência e tecnologia para criar pontes entre a teoria e a prática, contribuindo para um futuro mais sustentável e com rigor técnico e sensibilidade pedagógica[cite: 19, 22].
+<div align="center">
+  <a href="mailto:ysidfor@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/yuri-sidney-forjaz-0431751b4"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
 
 ---
 
-## 🧰 Tecnologias e Competências
+### **💡 Análise de Perfil**
+> [cite_start]Um arquiteto de conhecimento com um framework acadêmico que integra Engenharia da Computação [cite: 263][cite_start], Ciência de Dados, Física [cite: 261] [cite_start]e Pedagogia[cite: 265]. [cite_start]O objetivo principal é a aplicação de modelos computacionais e metodologias de ensino para projetar e implementar soluções tecnológicas inovadoras e de alto impacto[cite: 248].
+
+---
+
+### **📚 Pilares Tecnológicos**
+<table width="100%">
+  <tr>
+    <td align="center"><strong>Linguagens</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><strong>Dados & IA</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### **📂 Arquitetura do Portfólio**
+O portfólio é modularizado em Organizações que encapsulam ecossistemas de desenvolvimento.
 
 <details>
-  <summary><strong>💻 Desenvolvimento e Tecnologia</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
-    <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=Raspberry+Pi&logoColor=white" alt="IoT">
-  </p>
+<summary>
+    <h2 style="display: inline-block; margin: 0; font-size: 1.2em;">🐍 Organização: python-development-hub</h2>
+</summary>
+<br>
+
+<table width="100%">
+  <tr>
+    <td>
+      <strong>Data Science & Machine Learning Suite</strong><br>
+      <em>Análise de dados, modelagem preditiva e deep learning.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td>
+      <strong>Big Data & ETL Pipelines</strong><br>
+      <em>Processamento distribuído e orquestração de pipelines de dados.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dask-56B5D0?style=flat-square&logo=dask&logoColor=white" />
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
-  <summary><strong>🔬 Expertise Acadêmica e Pedagógica</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Ensino de Matemática-00549F?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Ensino de Matemática">
-    <img src="https://img.shields.io/badge/Física-2D2D2D?style=for-the-badge&logo=atom&logoColor=white" alt="Física">
-    <img src="https://img.shields.io/badge/Pedagogia-F15A29?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Pedagogia">
-  </p>
+<summary>
+    <h2 style="display: inline-block; margin: 0; font-size: 1.2em;">⚙️ Organização: csharp-development-hub</h2>
+</summary>
+<br>
+
+<table width="100%">
+  <tr>
+    <td>
+      <strong>Enterprise Backend Systems</strong><br>
+      <em>APIs RESTful, microsserviços e sistemas corporativos.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Entity_Framework-440099?style=flat-square&logo=entity-framework&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+    <tr>
+    <td>
+      <strong>Cloud Native & DevOps</strong><br>
+      <em>Containers, orquestração e pipelines de CI/CD para .NET.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+    </td>
+  </tr>
+</table>
 </details>
 
----
+<details>
+<summary>
+    <h2 style="display: inline-block; margin: 0; font-size: 1.2em;">☕ Organização: java-development-hub</h2>
+</summary>
+<br>
 
-## 🎓 Formação Acadêmica
+<table width="100%">
+  <tr>
+    <td>
+      <strong>Corporate Applications & APIs</strong><br>
+      <em>Microsserviços e APIs RESTful para o ecossistema corporativo.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+    </td>
+  </tr>
+    <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td>
+      <strong>Event-Driven Architecture</strong><br>
+      <em>Integração com sistemas de mensageria e arquiteturas reativas.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+    </td>
+  </tr>
+</table>
+</details>
 
-* **Licenciatura em Matemática** - Universidade de Franca (2024 - 2028) [cite: 24, 25]
-* **Licenciatura em Física** - Universidade de Franca (2022 - 2026) [cite: 26, 27]
-* **Bacharelado em Engenharia da Computação** - UNIVESP (2023 - 2025) [cite: 28, 29]
-* **Licenciatura em Pedagogia** - Universidade de Franca (2022 - 2025) [cite: 30, 31]
-* **Bacharelado em Tecnologia da Informação** - UNIVESP (2020 - 2023) [cite: 32, 33]
+<details>
+<summary>
+    <h2 style="display: inline-block; margin: 0; font-size: 1.2em;">🔬 Organização: fortran-development-hub</h2>
+</summary>
+<br>
 
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&theme=radical&show_icons=true&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical&hide_border=false" width="48%" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=radical&hide_border=false&layout=compact" width="48%" alt="Top Languages">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuri-sidney-forjaz-0431751b4">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ysidfor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td>
+      <strong>High-Performance Scientific Computing</strong><br>
+      <em>Simulações, computação paralela e métodos numéricos.</em>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenMP-E97800?style=flat-square&logo=openmp&logoColor=white" />
+      <img src="https://img.shields.io/badge/MPI-0078D4?style=flat-square&logo=open-mpi&logoColor=white" />
+    </td>
+  </tr>
+</table>
+</details>
