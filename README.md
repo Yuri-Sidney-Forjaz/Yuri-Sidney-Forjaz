@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Yuri+Sidney+Forjaz;Desenvolvedor+%26+Futuro+Educador;Ciência%2C+Tecnologia+e+Educação" alt="Animação de digitação para o título">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=650&lines=Yuri+Sidney+Forjaz;Python+%7C+C%23+.NET+%7C+Java+%7C+Fortran;Soluções+de+Alta+Performance" alt="Animação de digitação para o título">
   </a>
 </div>
 
