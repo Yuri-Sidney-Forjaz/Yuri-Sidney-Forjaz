@@ -33,8 +33,7 @@ Para manter meus projetos organizados e tematicamente separados, eu utilizo o re
 | **C#️⃣ .NET** | Foco em **backend e APIs de alta performance** com `ASP.NET Core`. Explora arquiteturas de **microsserviços** (`Docker`, `Kubernetes`), segurança (`JWT`) e pipelines de CI/CD. |
 | ☕ **Java** | Utilizado para **aplicações corporativas escaláveis** com o ecossistema **Spring**. Foco em APIs (`Spring Boot`), segurança (`Spring Security`) e arquitetura de **microsserviços** (`Spring Cloud`). |
 | 🔢 **Fortran** | Ferramenta para **computação científica de alta performance**. Dedicado a simulações de física, **computação paralela** (`MPI`, `OpenMP`) e resolução de problemas matemáticos com máxima precisão. |
-#### 🐍 Python
-Em meu ecossistema, Python é a linguagem da versatilidade, servindo como a principal ferramenta para Engenharia e Ciência de Dados. Nos meus repositórios, você encontrará desde exercícios fundamentais de matemática e física até projetos complexos envolvendo manipulação de dados com pandas e numpy , visualização com matplotlib e plotly , e a construção de modelos de Machine Learning e Deep Learning com scikit-learn, TensorFlow e PyTorch. Além disso, exploro o desenvolvimento de pipelines de ETL com Airflow, automação de scripts e a criação de ferramentas de linha de comando.
+
 
 
 
