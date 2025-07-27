@@ -38,20 +38,6 @@ Em meu ecossistema, Python é a linguagem da versatilidade, servindo como a prin
 
 
 
-#### C#️⃣ .NET
-Eu utilizo C# e o ecossistema .NET para o desenvolvimento de sistemas backend robustos e APIs de alta performance. Meus projetos nesta área focam na criação de APIs RESTful com ASP.NET Core , na implementação de arquiteturas de microsserviços com Docker e Kubernetes , e na garantia de segurança com OAuth2 e JWT. A organização de C# contém exemplos práticos de conexões com bancos de dados, logging, otimização de performance e a construção de pipelines de CI/CD com GitHub Actions e Azure DevOps.
-
-
-#### ☕ Java
-No universo Java, meu foco é a construção de aplicações corporativas e ecossistemas web escaláveis com o framework Spring. Os repositórios demonstram o desenvolvimento de APIs com Spring Boot , a implementação de segurança com Spring Security , e a criação de arquiteturas de microsserviços usando Spring Cloud. Além disso, há projetos que exploram a integração com sistemas de mensageria comoRabbitMQ e Kafka , e a automação de deploy com Jenkins e Docker, mostrando a força do Java para o ambiente corporativo.
-
-#### 🔢 Fortran
-Fortran é minha ferramenta de escolha para a computação científica e a resolução de problemas matemáticos que exigem máxima performance e precisão. Meus projetos em Fortran são dedicados a simulações de física e dinâmica de fluidos , e à implementação de algoritmos de computação paralela com MPI e OpenMP para otimização em supercomputadores. Esta organização é um reflexo da minha paixão pelas ciências exatas, contendo desde exercícios de álgebra linear com BLAS e LAPACK até técnicas de modernização de código legado
-
-<br>
-<br>
-<br>
-
 ### 👨‍💻 Sobre Minha trajetória acadêmica 
 
 Sou um profissional em formação com uma trajetória acadêmica interdisciplinar, abrangendo ciências exatas, tecnologia e educação. Minha jornada reflete um compromisso com a inovação, o ensino e o impacto social, buscando aplicar o conhecimento em contextos educacionais e tecnológicos.
