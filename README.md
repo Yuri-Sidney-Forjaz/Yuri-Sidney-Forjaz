@@ -15,13 +15,9 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
 
-Sou um profissional em formação com uma trajetória acadêmica interdisciplinar, abrangendo ciências exatas, tecnologia e educação. Minha jornada reflete um compromisso com a inovação, o ensino e o impacto social, buscando aplicar o conhecimento em contextos educacionais e tecnológicos.
 
-### 💡 Filosofia de Trabalho
 
-Minha abordagem integra conhecimentos de **Engenharia da Computação, Física e Pedagogia**. O objetivo é aplicar modelos computacionais e metodologias de ensino para projetar e implementar soluções tecnológicas inovadoras, que causem um impacto positivo e duradouro.
 
 ### 🚀 Meus Projetos
 
@@ -31,14 +27,18 @@ Minha abordagem integra conhecimentos de **Engenharia da Computação, Física e
 Para manter meus projetos organizados e tematicamente separados, eu utilizo o recurso de Organizações do GitHub. Cada organização é dedicada a uma linguagem de programação específica, servindo como um hub de desenvolvimento para todos os repositórios relacionados àquela tecnologia. Minhas quatro principais organizações são focadas em Python , C# , Java e Fortran.
 
 
-
-
+| Tecnologia | Descrição |
+| :--- | :--- |
+| 🐍 **Python** | Ferramenta principal para **Engenharia e Ciência de Dados**. Abrange desde manipulação de dados (`pandas`), visualização e **Machine Learning** (`scikit-learn`, `TensorFlow`) até pipelines de ETL (`Airflow`). |
+| **C#️⃣ .NET** | Foco em **backend e APIs de alta performance** com `ASP.NET Core`. Explora arquiteturas de **microsserviços** (`Docker`, `Kubernetes`), segurança (`JWT`) e pipelines de CI/CD. |
+| ☕ **Java** | Utilizado para **aplicações corporativas escaláveis** com o ecossistema **Spring**. Foco em APIs (`Spring Boot`), segurança (`Spring Security`) e arquitetura de **microsserviços** (`Spring Cloud`). |
+| 🔢 **Fortran** | Ferramenta para **computação científica de alta performance**. Dedicado a simulações de física, **computação paralela** (`MPI`, `OpenMP`) e resolução de problemas matemáticos com máxima precisão. |
 #### 🐍 Python
 Em meu ecossistema, Python é a linguagem da versatilidade, servindo como a principal ferramenta para Engenharia e Ciência de Dados. Nos meus repositórios, você encontrará desde exercícios fundamentais de matemática e física até projetos complexos envolvendo manipulação de dados com pandas e numpy , visualização com matplotlib e plotly , e a construção de modelos de Machine Learning e Deep Learning com scikit-learn, TensorFlow e PyTorch. Além disso, exploro o desenvolvimento de pipelines de ETL com Airflow, automação de scripts e a criação de ferramentas de linha de comando.
 
 
 
-#### C#️⃣ C# .NET
+#### C#️⃣ .NET
 Eu utilizo C# e o ecossistema .NET para o desenvolvimento de sistemas backend robustos e APIs de alta performance. Meus projetos nesta área focam na criação de APIs RESTful com ASP.NET Core , na implementação de arquiteturas de microsserviços com Docker e Kubernetes , e na garantia de segurança com OAuth2 e JWT. A organização de C# contém exemplos práticos de conexões com bancos de dados, logging, otimização de performance e a construção de pipelines de CI/CD com GitHub Actions e Azure DevOps.
 
 
@@ -47,6 +47,14 @@ No universo Java, meu foco é a construção de aplicações corporativas e ecos
 
 #### 🔢 Fortran
 Fortran é minha ferramenta de escolha para a computação científica e a resolução de problemas matemáticos que exigem máxima performance e precisão. Meus projetos em Fortran são dedicados a simulações de física e dinâmica de fluidos , e à implementação de algoritmos de computação paralela com MPI e OpenMP para otimização em supercomputadores. Esta organização é um reflexo da minha paixão pelas ciências exatas, contendo desde exercícios de álgebra linear com BLAS e LAPACK até técnicas de modernização de código legado
+
+<br>
+<br>
+<br>
+
+### 👨‍💻 Sobre Minha trajetória acadêmica 
+
+Sou um profissional em formação com uma trajetória acadêmica interdisciplinar, abrangendo ciências exatas, tecnologia e educação. Minha jornada reflete um compromisso com a inovação, o ensino e o impacto social, buscando aplicar o conhecimento em contextos educacionais e tecnológicos.
 
 ### 🎓 Formação Acadêmica
 
