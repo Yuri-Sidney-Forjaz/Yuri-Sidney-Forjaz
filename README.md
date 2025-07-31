@@ -27,13 +27,13 @@
 Para manter meus projetos organizados e tematicamente separados, eu utilizo o recurso de Organizações do GitHub. Cada organização é dedicada a uma linguagem de programação específica, servindo como um hub de desenvolvimento para todos os repositórios relacionados àquela tecnologia. Minhas quatro principais organizações são focadas em Python , C# , Java e Fortran.
 
 
-| Tecnologia | Descrição |
-| :--- | :--- |
-| 🐍 **Python** | Ferramenta principal para **Engenharia e Ciência de Dados**. Abrange desde manipulação de dados (`pandas`), visualização e **Machine Learning** (`scikit-learn`, `TensorFlow`) até pipelines de ETL (`Airflow`). |
-| **C#️⃣ .NET** | Foco em **backend e APIs de alta performance** com `ASP.NET Core`. Explora arquiteturas de **microsserviços** (`Docker`, `Kubernetes`), segurança (`JWT`) e pipelines de CI/CD. |
-| ☕ **Java** | Utilizado para **aplicações corporativas escaláveis** com o ecossistema **Spring**. Foco em APIs (`Spring Boot`), segurança (`Spring Security`) e arquitetura de **microsserviços** (`Spring Cloud`). |
-| 🔢 **Fortran** | Ferramenta para **computação científica de alta performance**. Dedicado a simulações de física, **computação paralela** (`MPI`, `OpenMP`) e resolução de problemas matemáticos com máxima precisão. |
 
+| Tecnologia | Descrição                                                                                                                                                                                          |
+| :--- | :--- |
+| 🐍 **Python** | **Principal ferramenta dedicada à** Engenharia e Ciência de Dados. Experiência em manipulação de dados (`Pandas`), visualização, Machine Learning (`Scikit-learn`, `TensorFlow`) e orquestração de pipelines de `ETL` (`Airflow`). |
+| 🇨# **.NET** | **Principal ferramenta dedicada ao** desenvolvimento de `APIs` e backend de alta performance com `ASP.NET Core`, explorando arquiteturas de microsserviços (`Docker`, `Kubernetes`), segurança (`JWT`) e pipelines de `CI/CD`. |
+| ☕ **Java** | **Principal ferramenta dedicada ao** desenvolvimento de aplicações corporativas escaláveis com o ecossistema `Spring`, com foco em `APIs REST` (`Spring Boot`), segurança (`Spring Security`) e arquitetura de microsserviços (`Spring Cloud`). |
+| 🔢 **Fortran** | **Principal ferramenta dedicada à** computação científica de alta performance, incluindo simulações de física, computação paralela (`MPI`, `OpenMP`) e resolução de problemas matemáticos que exigem máxima precisão. |
 
 
 
