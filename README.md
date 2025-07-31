@@ -31,7 +31,7 @@ Para manter meus projetos organizados e tematicamente separados, eu utilizo o re
 | Tecnologia | Descrição                                                                                                                                                                                          |
 | :--- | :--- |
 | 🐍 **Python** | **Principal ferramenta dedicada à** Engenharia e Ciência de Dados. Experiência em manipulação de dados (`Pandas`), visualização, Machine Learning (`Scikit-learn`, `TensorFlow`) e orquestração de pipelines de `ETL` (`Airflow`). |
-| 🇨# **.NET** | **Principal ferramenta dedicada ao** desenvolvimento de `APIs` e backend de alta performance com `ASP.NET Core`, explorando arquiteturas de microsserviços (`Docker`, `Kubernetes`), segurança (`JWT`) e pipelines de `CI/CD`. |
+| 🇨#️⃣ **.NET** | **Principal ferramenta dedicada ao** desenvolvimento de `APIs` e backend de alta performance com `ASP.NET Core`, explorando arquiteturas de microsserviços (`Docker`, `Kubernetes`), segurança (`JWT`) e pipelines de `CI/CD`. |
 | ☕ **Java** | **Principal ferramenta dedicada ao** desenvolvimento de aplicações corporativas escaláveis com o ecossistema `Spring`, com foco em `APIs REST` (`Spring Boot`), segurança (`Spring Security`) e arquitetura de microsserviços (`Spring Cloud`). |
 | 🔢 **Fortran** | **Principal ferramenta dedicada à** computação científica de alta performance, incluindo simulações de física, computação paralela (`MPI`, `OpenMP`) e resolução de problemas matemáticos que exigem máxima precisão. |
 
